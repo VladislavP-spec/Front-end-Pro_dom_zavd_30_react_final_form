@@ -1,0 +1,29 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+body {
+  background-color: aquamarine;
+}
+
+Form {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+
+/*#task-input {*/
+/*  background-color: ghostwhite;*/
+/*}*/
+
+/* Приклад CSS для червоного бордера, якщо є помилка вводу */
+
+
+li {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
